@@ -53,10 +53,10 @@ to the RoundCube Webmail.
 Question:
 
 A.What is the password used to access the TBFC portal?
+
 Answer: unranked-wisdom-anthem
 
 B.Browse to Target-IP from within the AttackBox and try to access the mailbox of the factory user to see if the previously harvested admin password has been reused on the email portal. What is the total number of toys expected for delivery?
+
 Answer: 1984000
 
-
-Enter the body of the message, and type END (capitals) when finished: Create and type any convincing message. Make sure to include the URL http://10.49.94.175:8000 to check if the target will fall for this trick.
