@@ -7,8 +7,11 @@ In this task, you will be part of the TBFC local red team with the elves Recon M
 
 Learning Objectives:
 -Understand what social engineering is
+
 -Learn the types of phishing
+
 -Explore how red teams create fake login pages
+
 -Use the Social-Engineer Toolkit to send a phishing email
 
 # TASK 2 - EXERCISE
